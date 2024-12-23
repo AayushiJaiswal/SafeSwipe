@@ -1,0 +1,13 @@
+-> you can install the common dependencies manually. Run the following commands to install the necessary libraries:
+
+pip install flask scikit-learn pandas numpy
+
+-> train the model
+
+python fraud_detection.py
+
+-> run the server
+
+python api.py
+
+-> go live index.html on browser

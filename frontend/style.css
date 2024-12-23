@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f9;
+}
+.container {
+    text-align: center;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+form {
+    margin-top: 20px;
+}
+
+input{
+    padding: 10px;
+    margin: 5px 0;
+    width: 100%;
+    max-width: 500px;
+}
+#submit{
+    padding: 10px;
+    margin: 5px 0;
+    width: 100%;
+    max-width: 300px;
+}
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+}
+.sample{
+    padding: 10px;
+    margin: 5px 0;
+}
+.sample-input{
+    padding: 5px;
+    margin: 6px 0;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 80%;
+    float: inline-start;
+    font-size: 10px;
+}
+.copy-text{
+    padding: 5px;
+    margin: 5px 0;
+    float: inline-end;
+    width: 12%;
+    font-size: 10px;
+}
