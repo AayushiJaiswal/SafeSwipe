@@ -76,3 +76,5 @@ The following libraries are used in this project:
 
 ### Results
 The models were evaluated using metrics suitable for imbalanced datasets, such as precision, recall, F1-score, and the Area Under the Precision-Recall Curve (AUPRC). The Random Forest model achieved the best performance with an AUPRC of 0.90.
+
+![SafeSwipe Output](assets/safeswipe-output.png)
